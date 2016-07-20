@@ -2,6 +2,6 @@
 
 int main(int argc, char** args)
 {
-  printf("Hello World\n");
-  printf("Hello, PC\n");
+	printf("Hello World\n");
+	printf("hello, computer\n");
 }
